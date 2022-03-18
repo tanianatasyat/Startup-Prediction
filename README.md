@@ -1,1 +1,2 @@
 # Startup-Prediction
+Given data of the start-up profile, I need to predict which company can succeed or failed in the future. To predict the data, several Machine Learning algorithms are needed to test which one has more accuracy. In this project, I used Random Forest as this algorithm is the most accurate. The F1 score is also quite good compared to other algorithm such as the Logistiic Regression, the SVM, and the K-Nearest Neighbor. 
